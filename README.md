@@ -1,6 +1,6 @@
 # odin-recipes
-Project Title
+##Project Title
     Odin-recipe.
 
-Description
+##Description
     First project in the TOP (The Odin Project) Foundations Course which based on HTML.
