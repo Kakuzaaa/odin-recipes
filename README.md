@@ -1,6 +1,9 @@
 # odin-recipes
 ## Project Title
-    Odin-recipe.
+Odin-recipe.
 
 ## Description
-    First project in the TOP (The Odin Project) Foundations Course which based on HTML.
+First project in the TOP (The Odin Project) Foundations Course which based on HTML.
+
+## Preview
+https://kakuzaaa.github.io/odin-recipes/
