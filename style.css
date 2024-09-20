@@ -1,0 +1,28 @@
+.title {
+    text-align: center;
+    color: rgb(223, 184, 134);
+    background-color: rgb(7, 7, 85);
+    font-family: Verdana, serif;
+}
+
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.text,
+.list {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+.text {
+    text-align: center;
+}
+
+.list {
+    text-align: left;
+}
+
